@@ -4,4 +4,5 @@
 2) Vipul Dabhi Sir => https://sites.google.com/site/vipulkdabhi/class-notes-for-students?authuser=0&pli=1
 
 
-Best Channel -> https://youtu.be/EssEjeKAMZk = Daily Code Buffers.
+Best Channel => Daily Code Buffers - Design Pattern (https://www.youtube.com/@DailyCodeBuffer )
+Proxy Design Pattern -> https://youtu.be/EssEjeKAMZk 
