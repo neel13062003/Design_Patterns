@@ -9,7 +9,7 @@ Best Channel => Daily Code Buffers - Design Pattern (https://youtube.com/playlis
 3) Facade Design Pattern -> https://youtu.be/k86uJ3uPtug
 
 
-5)
+5) Observer Design Pattern -> https://youtu.be/gbTWHeGUeXs
 6)
 7)
 
