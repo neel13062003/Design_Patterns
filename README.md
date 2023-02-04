@@ -1,1 +1,4 @@
 # Design_Patterns
+
+HBP Sir => https://sites.google.com/site/prajapatiharshadb/class-notes-for-students
+Vipul Dabhi Sir => https://sites.google.com/site/vipulkdabhi/class-notes-for-students?authuser=0&pli=1
