@@ -10,6 +10,6 @@ Best Channel => Daily Code Buffers - Design Pattern (https://youtube.com/playlis
 
 
 5) Observer Design Pattern -> https://youtu.be/gbTWHeGUeXs
-6)
+6) MVC Design Pattern -> https://youtu.be/R-FdQwygjJs
 7)
 
