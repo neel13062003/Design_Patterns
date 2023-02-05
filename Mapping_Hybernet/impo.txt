@@ -1,0 +1,6 @@
+1) Simple Mapping
+2) One To One
+3) One To Many
+4) Many To One
+5) Many To Many
+6) CRUD Operation
