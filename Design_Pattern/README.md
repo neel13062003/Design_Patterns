@@ -11,6 +11,10 @@ Best Channel => Daily Code Buffers - Design Pattern (https://youtube.com/playlis
 
 5) Observer Design Pattern -> https://youtu.be/gbTWHeGUeXs
 6) MVC Design Pattern -> https://youtu.be/R-FdQwygjJs
+                      -> https://youtu.be/CnMkZLa7w4k
+                      -> https://youtu.be/dTVVa2gfht8(with code)
+   Blog -> https://www.newthinktank.com/2013/02/mvc-java-tutorial/
+   
 7) Strategy->
 8) Controller->
 9) Interceptor->
