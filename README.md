@@ -5,3 +5,5 @@
 
 
 Best Channel => Daily Code Buffers - Design Pattern (https://youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K )
+
+1) Functional Programming => https://youtu.be/tCwg16PUZyo
