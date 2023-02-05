@@ -16,6 +16,6 @@ Best Channel => Daily Code Buffers - Design Pattern (https://youtube.com/playlis
    -> Blog -> https://www.newthinktank.com/2013/02/mvc-java-tutorial/
    
 7) Strategy->  https://youtu.be/F7_cRqNKoJs
-8) Controller->
+8) Front-Controller-> ppt
 9) Interceptor->
 
