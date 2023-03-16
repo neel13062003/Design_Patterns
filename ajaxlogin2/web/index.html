@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="ajax_validation.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#userid').on('blur', function() {
+                var userid = $(this).val();
+                if(userid !== '') {
+                    $.ajax({
+                        url: 'ajax_validation.jsp',
+                        method: 'POST',
+                        data: {userid: userid},
+                        success: function(data) {
+                            $('#userid-status').html(data);
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Registration Form</h1>
+    <form>
+        <table>
+            <tr>
+                <td>
+                    <label for="userid">User ID (Email):</label>
+                    <input type="email" id="userid" name="userid" required>
+                    <span id="userid-status"></span> 
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="sem">Semester:</label>
+                    <input type="number" id="sem" name="sem" min="1" max="8" required>
+                </td>    
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="Submit">
+                </td>
+            </tr>
+        </table>    
+    </form>
+</body>
+</html>
