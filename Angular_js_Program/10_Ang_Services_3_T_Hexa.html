@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<body>
+<div ng-app="myApp" ng-controller="myCtrl" ng-init="val=0">
+
+<p>Insert number to convert in hexadecimal:</p>
+
+<input type="text" ng-model="val" ng-change="funchex()">
+
+<h1>{{funchex()}}</h1>
+
+</div>
+
+<p>A custom service with a method that converts a given number into a hexadecimal number.</p>
+
+<script>
+var app = angular.module('myApp', []);
+
+app.service('hexafy', function() {
+    this.myFunc = function (x) {
+        return x.toString(16);
+    }
+});
+app.controller('myCtrl', function($scope, hexafy) {
+  var x1=0;
+  $scope.funchex = function(){
+	x1 = parseInt($scope.val)
+	return hexafy.myFunc(x1);
+  }
+  
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<script src="js/angular.min.js"></script>
+<body>
+
+<div ng-app="" ng-init="count=0">
+
+<h1 ng-mousemove="count = count + 1">Mouse Over Me!</h1>
+
+<h2>{{ count }}</h2>
+
+</div>
+
+<script>
+var app = angular.module('myApp', []);
+app.controller('myCtrl', function($scope) {
+    $scope.count = 0;
+});
+</script> 
+
+</body>
+</html>
