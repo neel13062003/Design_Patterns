@@ -10,6 +10,8 @@ Best Channel => Daily Code Buffers - Design Pattern (https://youtube.com/playlis
 
 2) Jquery(Easy To Learn) => https://www.w3schools.com/jquery/
 
+3) Collection Frame Work => https://youtu.be/rzA7UJ-hQn4
+
 ************ Important Tips ******************</br>
     Best & Fast  Way To Learn Any new Language & FrameWork Platform</br>
 =>  W3 Schools</br>
