@@ -12,6 +12,7 @@ Best Channel => Daily Code Buffers - Design Pattern (https://youtube.com/playlis
 
 3) Collection Frame Work => https://youtu.be/rzA7UJ-hQn4(Video) & https://github.com/Anuj-Kumar-Sharma/Collections-Framework(Code)
 
+</br></hr></br></br>
 <div>
 <h3>Hybernet (ORM Tool - Framework for DataBase)</h3>
 <ui>VIDEO</ui>  
@@ -25,7 +26,7 @@ Best Channel => Daily Code Buffers - Design Pattern (https://youtube.com/playlis
   <li>-Many To Many Mapping</li>
   <li>-CRUD Operation using Hybernet(ORM tool)</li>
 </div>  
-</br></br>  
+</br></hr></br></br>  
   
   
 
