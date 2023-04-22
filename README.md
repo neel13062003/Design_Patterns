@@ -12,7 +12,17 @@ Best Channel => Daily Code Buffers - Design Pattern (https://youtube.com/playlis
 
 3) Collection Frame Work => https://youtu.be/rzA7UJ-hQn4(Video) & https://github.com/Anuj-Kumar-Sharma/Collections-Framework(Code)
 
-4) Hybernet Playlist = "https://youtu.be/KqzLEKHtLlw"
+**** Hybernet (ORM Tool - Framework for DataBase)****
+VIDEO  
+  -"https://youtu.be/KqzLEKHtLlw"
+PROGRAM
+  -Basic Hybernet Mapping Without Annotation Using File Create Table
+  -Basic Hybernet Mapping With Annotation Table Crater
+  -One To One Mapping
+  -One To Many Mapping
+  -Many To Many Mapping
+  -Many To Many Mapping
+  -CRUD Operation using Hybernet(ORM tool)
 
 ************ Important Tips ******************</br>
     Best & Fast  Way To Learn Any new Language & FrameWork Platform</br>
