@@ -28,7 +28,7 @@ Best Channel => Daily Code Buffers - Design Pattern (https://youtube.com/playlis
 </div>  
 </br></hr></br></br>  
 
-</br></hr></br></br>
+</hr>
 <div>
 <h3>Spring MVC</h3>
 <ui>VIDEO</ui>  
